@@ -1,2 +1,6 @@
-let timeDisplay = document.getElementById("currentDay")
-timeDisplay.textContent = "Hello"
+//Prepare JS before running it
+$(document).ready(function () {
+    
+
+
+})
